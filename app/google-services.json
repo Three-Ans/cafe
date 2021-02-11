@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "856837410757",
+    "project_id": "three-ans",
+    "storage_bucket": "three-ans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856837410757:android:50f27c6c40867d11b045ac",
+        "android_client_info": {
+          "package_name": "build.gradle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856837410757-179594vc6v359anoqdgh8qdkbeitmijq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjTPgw4zXHLi4f7-FFYzgvJE6If1xT0hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856837410757-179594vc6v359anoqdgh8qdkbeitmijq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856837410757:android:d9b910e1a1715e6db045ac",
+        "android_client_info": {
+          "package_name": "com.example.cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856837410757-179594vc6v359anoqdgh8qdkbeitmijq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjTPgw4zXHLi4f7-FFYzgvJE6If1xT0hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856837410757-179594vc6v359anoqdgh8qdkbeitmijq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
