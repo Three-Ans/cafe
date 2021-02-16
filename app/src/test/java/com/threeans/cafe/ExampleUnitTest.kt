@@ -1,4 +1,4 @@
-package com.example.cafe
+package com.threeans.cafe
 
 import org.junit.Test
 
