@@ -14,3 +14,5 @@
 .cxx
 .idea/markdown-navigator.xml
 .idea/markdown-navigator-enh.xml
+.idea/compiler.xml
+.idea/.name
