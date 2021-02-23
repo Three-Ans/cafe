@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_nav_1"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="홈"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/bottom_nav_2"
+        android:icon="@drawable/ic_baseline_coffee_24"
+        android:title="추천"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/bottom_nav_4"
+        android:icon="@drawable/ic_baseline_fiber_new_24"
+        android:title="글작성"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/bottom_nav_5"
+        android:icon="@drawable/ic_baseline_bookmark_24"
+        android:title="스크랩"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/bottom_nav_6"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="마이페이지"
+        app:showAsAction="always"/>
+
+</menu>
