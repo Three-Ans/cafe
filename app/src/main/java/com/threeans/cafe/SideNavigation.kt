@@ -12,6 +12,9 @@ class SideNavigation : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_side_navigation)
 
+
+
+
     }
 
     override fun onBackPressed() {
